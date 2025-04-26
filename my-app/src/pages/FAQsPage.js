@@ -67,7 +67,8 @@ const FAQsPage = () => {
                 </Typography>
               </AccordionSummary>
               <AccordionDetails>
-                <Typography sx={{ color: "#ccc" }}>{faq.answer}</Typography>
+                <Typography sx={{ color: "#ccc" }}>  <div dangerouslySetInnerHTML={{ __html: faq.answer }} />
+                </Typography>
               </AccordionDetails>
             </Accordion>
           ))}

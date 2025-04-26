@@ -51,7 +51,7 @@ const Overview = () => {
     {
       label: "FAQs",
       description:
-        "This page answers frequently asked customer questions for clarity and quick solutions. This includes, Arriving, Late Teams, Late Umpires, Equipment, What to Bring, What to Wear, Logged out DiamondKast, Logged out of Stream Phone, Dropping a Shift, NewTek, Start Time, Incorrect Stats, Incorrect Highlights, and No Livestream.",
+        "This page answers frequently asked customer questions for clarity and quick solutions. This includes, Downloading DiamondKast, Trying a Training Game, Arriving, Late Teams, Late Umpires, Equipment, What to Bring, What to Wear, Logged out DiamondKast, Logged out of Stream Phone, Dropping a Shift, NewTek, Start Time, Incorrect Stats, Incorrect Highlights, and No Livestream.",
       path: "/faqs",
     },
   ];

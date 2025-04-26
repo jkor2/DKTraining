@@ -69,62 +69,69 @@ export const videoData = [
   },
   {
     id: 10,
+    title: "DiamondKast - Editing Plays",
+    description:
+      "This DiamondKast Training video walks through how to edit plays within the scoring app. Using examples like editing a triple, editing a single, and adjusting the score, we'll show how different plays offer different editing options. Every play type has its own editable fields, so for the best understanding, we encourage you to download the DiamondKast scoring app and try a Training Game yourself!",
+    youtubeId: "hnpu8kQEksI",
+  },
+  {
+    id: 11,
     title: "Determining Pitch Types",
     description:
       "This DiamondKast Training video teaches how to determine pitch types, including fastball (FB), curveball (CB), slider (SL), changeup (CH), knuckleball (KB), and others, as well as tracking velocity, movement, and identifying pitches.",
     youtubeId: "IOhIwvHUXDM",
   },
   {
-    id: 11,
+    id: 12,
     title: "PG Website - Finding Event & Rules",
     description:
       "This DiamondKast Training video guides users on how to navigate the Perfect Game website, access events, locate event rules, and locating the pitching report.",
     youtubeId: "NNaYIHp35JQ",
   },
   {
-    id: 12,
+    id: 13,
     title: "Setting up a Livestream",
     description:
       "This DiamondKast Training video demonstrates how to set up the stream by opening PG Broadcaster, selecting the field dropdown, finding the field, and starting the live broadcast.",
     youtubeId: "k4-t90hmScM",
   },
   {
-    id: 13,
+    id: 14,
     title: "Setting up the stream box",
     description:
       "This DiamondKast Training video guides you through setting up the stream box, including hanging up the clamps, understanding the contents of the box, securing power, plugging in the phone and fan, setting the camera for optimal viewing of 3rd and 1st bases, and wrapping up the setup process.",
     youtubeId: "LtREc4hrzoY",
   },
   {
-    id: 14,
+    id: 15,
     title: "Handling the Stalker Radar",
     description:
       "This DiamondKast Training video covers handling the Stalker Radar, including what's in the bag, setting up the radar, ensuring it’s properly charged (VERY IMPORTANT), checking charging status, understanding peak, range, and angle, and recalling data.",
     youtubeId: "ni14Xrz6XeU",
   },
   {
-    id: 15,
+    id: 16,
     title: "Equipment Pricing Breakdown",
     description:
       "This DiamondKast Training video includes an equipment price breakdown, detailing items like the Stalker Radar Gun ($2,200), Apple iPad ($499), Streaming Phone ($599), and various accessories, urging users to treat the equipment like it's their own.",
     youtubeId: "SXrzsyHwBHA",
   },
   {
-    id: 16,
+    id: 17,
     title: "Stat Corrections",
     description:
       "This DiamondKast Training video provides guidance on sending a stats change, including the proper email format with the subject line containing the date, age, and tournament name, and the body clearly describing the required change.",
     youtubeId: "khjuMklAscY",
   },
   {
-    id: 17,
+    id: 18,
     title: "WhenIWork Basics",
     description:
       "This DiamondKast Training video series covers the basics of using WhenIWork, including confirming shifts with details like date, time, location, and how to get directions.",
     youtubeId: "2_5UWEEVhwM",
   },
   {
-    id: 18,
+    id: 19,
     title: "DiamondKast Academy",
     description:
       "This DiamondKast Training video covers the features of DiamondKast Academy and how to use it effectively. DiamondKast Academy is the go-to resource for everything related to scoring while on site.",
@@ -138,6 +145,11 @@ export const videoData = [
  * Just append to the end of the list. Will dynamically render via FAQS Page
  */
 export const faqData = [
+  {
+    question: "How do I try a training game before my first shift?",
+    answer: `Trying a training game is very simple! Go to your app store and search "DiamondKast Scoring App", download that and select "Try a Training Game" to practice! Here is a direct link to the app: <a href="https://apps.apple.com/us/app/diamondkast-scoring-app/id1519866089" target="_blank" rel="noopener noreferrer" style="color: white;">DiamondKast</a>`
+  },
+  
   {
     question: "What time should I arrive at my site?",
     answer:
