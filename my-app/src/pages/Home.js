@@ -70,10 +70,10 @@ const Home = () => {
     color: "#fff",
     display: "flex",
     flexDirection: "column",
-    justifyContent: "center", // 👈 Center vertically
-    alignItems: "center",      // 👈 Center horizontally
-    px: 2,                     // 👈 Add padding on sides on mobile
-    textAlign: "center",       // 👈 Ensure text inside centers
+    justifyContent: "center", 
+    alignItems: "center",     
+    px: 2,                    
+    textAlign: "center",      
     pt: 6,
     pb: 6
   }}
